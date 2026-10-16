@@ -24,8 +24,6 @@
 **Пример:**
 
 ```python
-from circle import area
-
 print(area(5))
 ```
 
@@ -40,8 +38,6 @@ print(area(5))
 **Пример:**
 
 ```python
-from circle import perimeter
-
 print(perimeter(5))
 ```
 
@@ -56,8 +52,6 @@ print(perimeter(5))
 **Пример:**
 
 ```python
-from square import area
-
 print(area(5))
 ```
 
@@ -72,8 +66,6 @@ print(area(5))
 **Пример:**
 
 ```python
-from square import perimeter
-
 print(perimeter(5))
 ```
 
@@ -90,8 +82,6 @@ print(perimeter(5))
 **Пример:**
 
 ```python
-from rectangle import area
-
 print(area(5, 10))
 ```
 
@@ -108,8 +98,6 @@ print(area(5, 10))
 **Пример:**
 
 ```python
-from rectangle import perimeter
-
 print(perimeter(5, 10))
 ```
 
@@ -126,8 +114,6 @@ print(perimeter(5, 10))
 **Пример:**
 
 ```python
-from triangle import area
-
 print(area(5, 10))
 ```
 
@@ -145,8 +131,6 @@ print(area(5, 10))
 **Пример:**
 
 ```python
-from triangle import perimeter
-
 print(perimeter(5, 10, 15))
 ```
 
@@ -156,4 +140,4 @@ print(perimeter(5, 10, 15))
 | ---------- | ------------ |
 | `00c4b6c` | Добавлена документация проекта |
 | `23834c0` | Изменена документация проекта |
-
+| 'e49ba8a' | Изменена документация проекта |
